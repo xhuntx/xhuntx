@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Motivated high school student and aspiring computer science major seeking opportunities in software engineering, where I can grow my technical skills and contribute to creative, impactful projects.<br>
 
 
